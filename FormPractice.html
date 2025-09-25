@@ -1,0 +1,59 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <style>
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        select,
+        textarea {
+            width: 100%;
+            max-width: 500px;
+            box-sizing: border-box;
+        }
+
+        .radio-group {
+            max-width: 500px;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+<body>
+    <h1>Contact</h1>
+    <form action="submit_form.php" method="post">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+        
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+        
+        <label for="number">Phone Number:</label><br>
+        <input type="tel" id="number" name="number" required maxlength="10"><br><br>
+
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" required></textarea><br><br>
+        
+        <label>Preferred Contact Method:</label><br>
+        <div class="radio-group">
+            <label><input type="radio" name="contact" value="email"> Email</label>
+            <label><input type="radio" name="contact" value="phone"> Phone</label>
+            <label><input type="radio" name="contact" value="both"> Both</label>
+        </div><br>
+
+        <label for="options">Inquiry Type:</label><br>
+        <select id="options" name="options" required>
+            <option value="" disabled selected>Select an option</option>
+            <option value="general">General Question</option>
+            <option value="support">Support Request</option>
+            <option value="feedback">Feedback</option>
+            <option value="technical">Technical Issue</option>
+        </select><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
