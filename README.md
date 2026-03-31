@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @JuanCalderon-17<br>👀 I’m interested in backend programming<br>🌱 I’m currently learning C#<br>💞️ I’m looking to collaborate on projects<br>📫 Reach out to me via email<br>😄 Pronouns: He/Them
+👋 Hi, I’m @JuanCalderon-17<br>👀 I’m interested in backend programming<br>🌱 I’m currently learning C#<br>💞️ I’m looking to collaborate on projects<br>📫 Reach out to me via email<br>
 
 
 ## 🌐 Socials:
