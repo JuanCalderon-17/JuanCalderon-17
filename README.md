@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @JuanCalderon-17<br>👀 I’m interested in backend programming<br>🌱 I’m currently learning C#<br>💞️ I’m looking to collaborate on projects<br>📫 Reach out to me via email<br>
-
+I am a Backend-oriented Software Engineer with a passion for building robust, scalable server-side architectures. My expertise lies in the .NET 8 ecosystem, where I focus on performance, security, and clean code.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fuanmdm)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juancalderona) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FuanMDM) 
