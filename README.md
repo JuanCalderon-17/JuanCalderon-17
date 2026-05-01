@@ -34,7 +34,7 @@ and Portuguese.
 
 ---
 
-### cdpTracker
+### cdpTracker · [Live](https://registro-sobres.vercel.app/login)
 Operational tool built for McDonald's CDP kiosk workers — replaces a manual, 
 error-prone envelope logging process with a secure web app. Features 
 role-based auth (Worker/Manager), kiosk-scoped data isolation, weekly 
