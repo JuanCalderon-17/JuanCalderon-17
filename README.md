@@ -5,8 +5,7 @@ ASP.NET Core and clean REST API design. I build full-stack applications with
 Angular on the frontend, but my focus is the server side — authentication, 
 data modeling, and well-structured APIs.
 
-Currently pursuing AWS certifications (Cloud Practitioner → Developer Associate 
-DVA-C02) to strengthen my cloud fundamentals.
+Currently pursuing AWS certifications to strengthen my cloud fundamentals.
 
 ---
 
